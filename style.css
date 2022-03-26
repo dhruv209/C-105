@@ -1,0 +1,27 @@
+body{
+    background-color:greenyellow;
+    color:indigo;
+}
+.heading{
+    width:80%;
+    font-size:23px;
+}
+.h1{
+    font-size:20px;
+    font-family:sans-serif;
+    color:white;
+    background-color:red ;
+    width:80%;
+    
+}
+#camera{
+    border:3px dotted black;
+    width:350px;
+    height:350px;
+}
+span{
+    color:red;
+}
+button{
+    font-size:20px;
+}
